@@ -34,7 +34,7 @@ body {
 
 .content-absolute {
   width: 100%;
-  padding: 10px 0 12px 0;
+  padding: 10px 0 13px 0;
 }
 
 .text-content {
@@ -386,11 +386,10 @@ body {
 @media only screen and (max-width: 989px) {
   .content-absolute {
     width: 100%;
-    margin-top: -9px;
-    position: absolute !important;
+    margin-top: -16px;
   }
 
   .layout-cta {
-    margin-top: 13px
+    margin-top: 2px;
   }
 }
